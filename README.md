@@ -1,2 +1,1 @@
-# merge-conflict-demo
-This is the MAIN branch edit.
+This is a MERGED version of both branches.
